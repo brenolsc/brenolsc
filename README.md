@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brenolsc.github.io/port/)
 
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenolsc&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolsc)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies that I use in my daily life
