@@ -17,6 +17,4 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-![Snake animation](https://github.com/brenolsc/brenolsc/blob/output/github-contribution-grid-snake.svg)
-
 A technology enthusiast student.
