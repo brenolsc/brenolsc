@@ -5,6 +5,8 @@
 
 ![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenolsc&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolsc)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies that I use in my daily life
 
 <div style="display: inline_block"><br/>
