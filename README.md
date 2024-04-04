@@ -3,9 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brenolsc.github.io/NovoPortfolio/)
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-(<a href="mailto:brenolsc.dev@gmail.com">Entre em contato.</a>)
+<a href="mailto:brenolsc.dev@gmail.com">Entre em contato.</a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=brenolsc&show_icons=true&theme=dracula&count_private=true&hide_border=false&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolsc&layout=compact&show_icons=true&hide_border=false&theme=dracula&langs_count=5)
