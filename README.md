@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI+👋,+WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brenolsc.github.io/port/)
+[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brenolsc.github.io/NovoPortfolio/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=brenolsc&show_icons=true&theme=dracula&count_private=true&hide_border=false&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolsc&layout=compact&show_icons=true&hide_border=false&theme=dracula&langs_count=5)
