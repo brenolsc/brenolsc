@@ -7,7 +7,6 @@
 <a href="mailto:brenolsc.dev@gmail.com"> &#128233; Contato &#128233; </a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=brenolsc&show_icons=true&theme=dracula&count_private=true&hide_border=false&include_all_commits=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolsc&layout=compact&show_icons=true&hide_border=false&theme=dracula&langs_count=5)
 
 ## Technologies that I use in my daily life
 
