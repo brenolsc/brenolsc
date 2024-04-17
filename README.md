@@ -22,7 +22,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenolsc.dev@gmail.com)
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=brenolsc&show_icons=true&theme=vue-dark&count_private=true&hide_border=false&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolsc&layout=compact&show_icons=true&hide_border=false&theme=vue-dark&langs_count=5)
 
 ##
