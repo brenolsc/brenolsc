@@ -14,7 +14,7 @@
 - Rubik's Cube enthusiast.
  
    ![ele-running](https://github.com/brenolsc/brenolsc/assets/150819478/a41566c9-8389-4312-b184-f219bc361ceb)
-  
+  </br>
    ⁱᵐᵃᵍᵉ ˢᵒᵘʳᶜᵉ﹕ ⁿᵃᵗⁱᵒⁿᵃˡ ᵗᵃⁱʷᵃⁿ ᵘⁿⁱᵛᵉʳˢⁱᵗʸ ⁽ⁿᵗᵘ⁾. ˡⁱⁿᵏ﹕ [ʰᵗᵗᵖˢ﹕//ᶠᵗᵖ.ⁿᵗᵘ.ᵉᵈᵘ.ᵗʷ/ᵖʰᵖ/ⁱᵐᵃᵍᵉˢ/](https://ftp.ntu.edu.tw/php/images/)
 
 
