@@ -13,11 +13,9 @@
 - Apprentice of PHP | Laravel.
 - Rubik's Cube enthusiast.
  
-   ![ele-running](https://github.com/brenolsc/brenolsc/assets/150819478/a41566c9-8389-4312-b184-f219bc361ceb)
+   <!-- ![ele-running](https://github.com/brenolsc/brenolsc/assets/150819478/a41566c9-8389-4312-b184-f219bc361ceb)
   </br>
-   ⁱᵐᵃᵍᵉ ˢᵒᵘʳᶜᵉ﹕ ⁿᵃᵗⁱᵒⁿᵃˡ ᵗᵃⁱʷᵃⁿ ᵘⁿⁱᵛᵉʳˢⁱᵗʸ ⁽ⁿᵗᵘ⁾. ˡⁱⁿᵏ﹕ [ʰᵗᵗᵖˢ﹕//ᶠᵗᵖ.ⁿᵗᵘ.ᵉᵈᵘ.ᵗʷ/ᵖʰᵖ/ⁱᵐᵃᵍᵉˢ/](https://ftp.ntu.edu.tw/php/images/)
-
-
+   ⁽ⁱᵐᵃᵍᵉ ˢᵒᵘʳᶜᵉ⁾ ⁿᵃᵗⁱᵒⁿᵃˡ ᵗᵃⁱʷᵃⁿ ᵘⁿⁱᵛᵉʳˢⁱᵗʸ - ⁿᵗᵘ [⁽ˡⁱⁿᵏ⁾](https://ftp.ntu.edu.tw/php/images/) -->
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brenolsc.github.io/NovoPortfolio/)
