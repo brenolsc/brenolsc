@@ -1,5 +1,5 @@
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41B883&size=35&center=true&vCenter=true&width=1000&lines=HI+👋,+WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41B883&size=35&center=true&vCenter=true&width=1000&lines=HI+👋,+WELCOME+TO+MY+PROFILE!+:%29)](https://git.io/typing-svg) 
 
 ##
 <table>
@@ -13,10 +13,7 @@
 - Apprentice of PHP | Laravel.
 - Rubik's Cube enthusiast.
  
-   ![ele-running](https://github.com/brenolsc/brenolsc/assets/150819478/a41566c9-8389-4312-b184-f219bc361ceb)
   </br>
-   ⁽ⁱᵐᵃᵍᵉ ˢᵒᵘʳᶜᵉ⁾ ⁿᵃᵗⁱᵒⁿᵃˡ ᵗᵃⁱʷᵃⁿ ᵘⁿⁱᵛᵉʳˢⁱᵗʸ - ⁿᵗᵘ [⁽ˡⁱⁿᵏ⁾](https://ftp.ntu.edu.tw/php/images/)
-  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brenolsc.github.io/NovoPortfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenolsc.dev@gmail.com)
