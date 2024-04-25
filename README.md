@@ -14,8 +14,11 @@
 - Rubik's Cube enthusiast.
  
   </br>
+  
+![icegif-118](https://github.com/brenolsc/brenolsc/assets/150819478/c0833b8c-9290-41c9-ae2e-f422df145331)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brenolsc.github.io/NovoPortfolio/)
+[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/brenolsc/brenolsc/files/15103111/CurriculoBrenolsc.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenolsc.dev@gmail.com)
 <br>
 
