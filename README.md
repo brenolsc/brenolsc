@@ -12,7 +12,7 @@
 - Backend development enthusiast.
 - Apprentice of PHP | Laravel.
 - Rubik's Cube enthusiast.
-- 
+
   </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-green?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/brenolsc/brenolsc/files/15139207/curriculo.pdf)
