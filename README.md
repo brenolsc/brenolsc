@@ -15,7 +15,7 @@
 
   </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-green?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/brenolsc/brenolsc/files/15139207/curriculo.pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-green?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/user-attachments/files/18283445/Curriculobreno.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenolsc.dev@gmail.com)
 <br>
 
