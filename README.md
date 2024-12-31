@@ -10,7 +10,7 @@
 
 - Student of Systems Analysis and Development.
 - Backend development enthusiast.
-- Apprentice of PHP | Laravel.
+- Apprentice of Python | Django.
 - Rubik's Cube enthusiast.
 
   </br>
@@ -38,4 +38,5 @@
   <img align="left" title="Node.js" alt="Node.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" title="Git" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" title="GitHub" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div><br/>
