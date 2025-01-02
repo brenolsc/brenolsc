@@ -19,7 +19,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenolsc.dev@gmail.com)
 <br>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolsc&layout=compact&show_icons=true&hide_border=false&theme=vue-dark&langs_count=5)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolsc&layout=compact&show_icons=true&hide_border=false&theme=vue-dark&langs_count=5&cache_seconds=3600)
 
 ##
 <table>
