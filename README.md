@@ -44,7 +44,7 @@
   <img align="left" title="DBeaver" alt="DBeaver" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
 
   
-  ![Snake animation](https://github.com/brenolsc/brenolsc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/brenolsc/brenolsc/output/dist/github-contribution-grid-snake.svg)
  
   
 </div><br/>
