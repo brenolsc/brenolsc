@@ -43,6 +43,8 @@
   <img align="left" title="Django" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="left" title="DBeaver" alt="DBeaver" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
 
+  <br>
   ![Snake animation](https://github.com/brenolsc/brenolsc/blob/output/github-contribution-grid-snake.svg)
-
+  </br>
+  
 </div><br/>
