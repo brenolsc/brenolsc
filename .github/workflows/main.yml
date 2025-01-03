@@ -17,15 +17,6 @@ jobs:
           github_user_name: brenolsc
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Commit Snake GIF to the output branch
-      - name: Commit Snake GIF
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake GIF"
-          git push origin output
-
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
