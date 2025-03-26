@@ -9,8 +9,8 @@
 </table>
 
 - Student of Systems Analysis and Development.
-- Backend development enthusiast.
-- Apprentice of Python | Django.
+- Mobile development enthusiast.
+- Apprentice of Dart | Flutter.
 - Rubik's Cube enthusiast.
 
   </br>
