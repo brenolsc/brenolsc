@@ -40,8 +40,9 @@
   <img align="left" title="Python" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" title="Django" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="left" title="DBeaver" alt="DBeaver" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
-  <img align="left" title="Yii2" alt="Yii2" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Yii_Framework_logo.svg" />
-
+  <img align="left" title="HTML" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+  
   
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brenolsc/brenolsc/output/github-contribution-grid-snake-dark.svg">
