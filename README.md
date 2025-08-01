@@ -8,8 +8,8 @@
   </tr>
 </table>
 
-- Student of Systems Analysis and Development.
-- Mobile development enthusiast.
+- Systems Analysis and Development graduate.
+- Web development enthusiast.
 - Apprentice of PHP - Yii2.
 - Rubik's Cube enthusiast.
 
