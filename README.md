@@ -10,7 +10,7 @@
 
 - Student of Systems Analysis and Development.
 - Mobile development enthusiast.
-- Apprentice of Dart | Flutter.
+- Apprentice of PHP - Yii2.
 - Rubik's Cube enthusiast.
 
   </br>
@@ -40,6 +40,7 @@
   <img align="left" title="Python" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" title="Django" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="left" title="DBeaver" alt="DBeaver" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
+  <img align="left" title="Yii2" alt="Yii2" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Yii_Framework_logo.svg" />
 
   
   <picture>
