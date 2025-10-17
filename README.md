@@ -13,6 +13,11 @@
 - Apprentice of PHP - Yii2.  
 - Rubik's Cube enthusiast.
 
+<p align="center">
+  <img src= <img width="1536" height="1024" alt="ChatGPT Image 17 de out  de 2025, 16_34_01" src="https://github.com/user-attachments/assets/e3bbb6c8-8bea-407b-b128-ab9cb4ab0934" /> 
+  alt="Cartoon Breno programming" width="400px"/>
+</p>
+
 
   </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
