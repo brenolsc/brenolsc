@@ -13,7 +13,7 @@
 - Apprentice of PHP - Yii2.  
 - Rubik's Cube enthusiast.
   
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/c74bad30-fcb1-4dd0-aeec-653aab226033" 
        alt="Cartoon Breno programming" 
        width="400px" 
