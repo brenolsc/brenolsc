@@ -20,8 +20,6 @@
        style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
 </p>
 
-<br/>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocoutinho/)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-green?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/user-attachments/files/21620339/Curriculo_BrenoCoutinho.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenolsc.dev@gmail.com)
