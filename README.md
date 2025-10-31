@@ -9,8 +9,8 @@
 </table>
 
 - Systems Analysis and Development graduate.
-- Web development enthusiast.
-- Apprentice of PHP - Yii2.  
+- Full Stack Developer.
+- PHP - Yii2 | JS.  
 - Rubik's Cube enthusiast.
   
 <p align="left">
